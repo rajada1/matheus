@@ -1,6 +1,7 @@
 # restaurant_app
 
-A new Flutter project.
+Intended to facilitate the scheduling of lunches for company employees
+
 
 ## Getting Started
 
