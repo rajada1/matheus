@@ -1,0 +1,16 @@
+{
+    "confirmed_food_current_user": {
+        "food": [
+            {
+                "userId": 1,
+                "foodId": 2,
+                "foodMembers": 3
+            },
+            {
+                "userId": 1,
+                "foodId": 4,
+                "foodMembers": 5
+            }
+        ]
+    }
+}

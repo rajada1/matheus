@@ -1,0 +1,72 @@
+{
+    "foods": [
+        {
+            "foodDetails": {
+                "id": 1,
+                "date": "2022-02-03T16:24:02.986Z",
+                "image_path": "https://cdn.oimenu.com.br/base/9bf/c91/d7a/fotografia_de_frango.jpg",
+                "title": "Frango Assado",
+                "description": "Frango assado, ao molho de laranja e açai"
+            }
+        },
+        {
+            "foodDetails": {
+                "id": 2,
+                "date": "2022-02-04T16:24:02.986Z",
+                "image_path": "https://cdn.oimenu.com.br/base/178/254/5ac/fotografia_de_panqueca.jpg",
+                "title": "Panqueca",
+                "description": "Panqueca com molho"
+            }
+        },
+        {
+            "foodDetails": {
+                "id": 3,
+                "date": "2022-02-05T16:24:02.986Z",
+                "image_path": "https://fotografiamais.com.br/wp-content/uploads/2018/08/fotos-de-comida-inspiracao-como-tirar.jpg",
+                "title": "Macarronada",
+                "description": "Macarronada ao molho branco"
+            }
+        },
+        {
+            "foodDetails": {
+                "id": 4,
+                "date": "2022-02-06T16:24:02.986Z",
+                "image_path": "https://fotografiamais.com.br/wp-content/uploads/2018/08/fotos-de-comida-japonesa.jpg",
+                "title": "Comida Japonesa",
+                "description": "Sushi, Yakisoba"
+            }
+        },
+        {
+            "foodDetails": {
+                "id": 5,
+                "date": "2022-02-07T16:24:02.986Z",
+                "image_path": "https://fotografiamais.com.br/wp-content/uploads/2018/08/fotos-de-comida-sanduiche.jpg",
+                "title": "Sanduiche",
+                "description": "Sanduiche do Madero"
+            }
+        },
+        {
+            "foodDetails": {
+                "id": 6,
+                "date": "2022-02-08T16:24:02.986Z",
+                "image_path": "https://fotografiamais.com.br/wp-content/uploads/2018/08/fotos-de-comida-como-montar-cenario-para-fotografia-gastronomica.jpg",
+                "title": "Frango Frito",
+                "description": "Frango Frito, Onion Rings"
+            }
+        }
+    ],
+    "confirmed_food_current_user": {
+        "confirmations": [
+            {
+                "userId": 1,
+                "foodId": 2,
+                "foodMembers": 3
+            },
+            {
+                "userId": 1,
+                "foodId": 4,
+                "foodMembers": 5
+            }
+        ]
+    }
+}

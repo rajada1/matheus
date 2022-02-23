@@ -1,0 +1,28 @@
+{
+    "historic": [
+        {
+            "userId": 1,
+            "foodDetails": {
+                "id": 29,
+                "date": "2022-01-31T16:24:02.986Z",
+                "Image_path": "https://cdn.oimenu.com.br/base/9bf/c91/d7a/fotografia_de_frango.jpg",
+                "Title": "Frango Assado",
+                "Description": "Frango assado, ao molho de laranja e açai"
+            },
+            "foodMembers": 3,
+            "foodUnitValue": 15.00
+        },
+        {
+            "userId": 1,
+            "foodDetails": {
+                "id": 30,
+                "date": "2022-02-01T16:24:02.986Z",
+                "Image_path": "https://cdn.oimenu.com.br/base/9bf/c91/d7a/fotografia_de_frango.jpg",
+                "Title": "Frango Assado",
+                "Description": "Frango assado, ao molho de laranja e açai"
+            },
+            "foodMembers": 3,
+            "foodUnitValue": 15.00
+        }
+    ]
+}
