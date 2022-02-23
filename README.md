@@ -2,6 +2,7 @@
 
 Intended to facilitate the scheduling of lunches for company employees
 
+![alt text](https://media.discordapp.net/attachments/864975859316162580/946137776506683422/simulator_screenshot_0656C46E-C854-4CAE-B196-45E8EA77F66A.png?width=580&height=1255)
 
 ## Getting Started
 
